@@ -1,0 +1,83 @@
+.body{
+    display: inline-flex;
+    gap: 3pc;
+    margin-top: 3pc;
+}
+  .header{
+    display: flex;
+    font-size: 35px;
+    color: #33334d;
+    width: 100px;
+    gap: 230px;
+  }    
+
+.template{
+    display: flex;
+    flex-wrap: wrap;
+    width: 25pc;
+    height: 38pc;
+    border: 1vh solid #33334d;
+}
+
+.box1{
+    width: 23pc;
+    height: 5pc;
+    background-color: #33334d;
+    margin-top: 1pc;
+    margin-left: 1pc;
+}
+
+.box2{
+    height: 12pc;
+    width: 10pc;
+    background-color: #33334d;
+    margin-top: -2pc;
+    margin-left: 1pc;
+}
+
+.box3{
+    height: 5pc;
+    width: 10pc;
+    background-color: #33334d;
+    margin-top: -14.5pc;
+    margin-left: 13pc;
+}
+
+.box4{
+    height: 5pc;
+    width: 10pc;
+    background-color: #33334d;
+    margin-top: -11pc;
+    margin-left: 13pc;
+}
+
+.box5{
+    width: 23pc;
+    height: 10pc;
+    background-color: #33334d;
+    margin-top: -7pc;
+    margin-left: 1pc;
+}
+
+.box6{
+    width: 23pc;
+    height: 3pc;
+    background-color: #33334d;
+    margin-top: -0pc;
+    margin-left: 1pc;
+}
+ .flexbox{
+    display: flex;
+    flex-wrap: wrap;
+    width: 25pc;
+    height: 38pc;
+    border: 1vh solid #33334d;
+ }  
+
+ .grid{
+    display: flex;
+    flex-wrap: wrap;
+    width: 25pc;
+    height: 38pc;
+    border: 1vh solid #33334d;
+ }  
